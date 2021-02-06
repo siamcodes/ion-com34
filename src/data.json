@@ -1,0 +1,44 @@
+{
+    "-M4Ws3Z0XxWfxUnPrT7C": {
+        "cases": 1029,
+        "country": "United States",
+        "date": "2020-03-01",
+        "deaths": 22,
+        "recovered": 2
+    },
+    "-M4Ws3Z0XxWfxUnPrT7D": {
+        "cases": 1120,
+        "country": "United States",
+        "date": "2020-03-02",
+        "deaths": 11,
+        "recovered": 1
+    },
+    "-M4Ws3Z0XxWfxUnPrT7E": {
+        "cases": 1222,
+        "country": "United States",
+        "date": "2020-03-03",
+        "deaths": 5,
+        "recovered": 7
+    },
+    "-M4Ws3Z0XxWfxUnPrT7F": {
+        "cases": 1342,
+        "country": "United States",
+        "date": "2020-03-04",
+        "deaths": 13,
+        "recovered": 21
+    },
+    "-M4Ws3Z0XxWfxUnPrT7G": {
+        "cases": 1543,
+        "country": "United States",
+        "date": "2020-03-05",
+        "deaths": 15,
+        "recovered": 3
+    },
+    "-M4Ws3Z0XxWfxUnPrT7H": {
+        "cases": 455,
+        "country": "Spain",
+        "date": "2020-03-01",
+        "deaths": 4,
+        "recovered": 6
+    }
+}
